@@ -1,8 +1,8 @@
 const emailRegex = /[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/;
 const phoneRegex = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
 class FormValidate {
-    emailRegex
-    phoneRegex
+     emailRegex
+     phoneRegex
     constructor() {
         this.emailRegex = emailRegex;
         this.phoneRegex = phoneRegex;
