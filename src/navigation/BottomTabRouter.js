@@ -30,7 +30,7 @@ const BottomTabRouter = () => {
         },
         {
           title: "Account",
-          screen: Splash,
+          screen: DidyouknowDetail,
           img: [Images.paytmImg, Images.atosImg],
         },
         {

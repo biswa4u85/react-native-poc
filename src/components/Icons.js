@@ -1,3 +1,4 @@
+import React from "react";
 import Icon from 'react-web-vector-icons';
 
 const Icons = ({font, name, color, size}) => {

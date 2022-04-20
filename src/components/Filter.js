@@ -5,7 +5,6 @@ import { useTranslation } from "react-i18next";
 
 const Filter = (props) => {
   const { t } = useTranslation();
-
   const {
     isOpen,
     onOpen,
