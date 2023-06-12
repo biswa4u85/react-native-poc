@@ -1,24 +1,20 @@
 import React from 'react';
-import { StyleSheet } from 'react-native';
-import {
-  Container,
-  Button,
-  Card,
-  Text,
-} from 'native-base';
+import {StyleSheet} from 'react-native';
+import {Container, Button, Card, Text} from 'native-base';
 
-
-export const HomeScreen = () => {
+export const HomeScreen = ({navigation}) => {
   return (
     <Container>
       <Card style={styles.card}>
         <Text style={styles.cardTitle}>Welcome to Home</Text>
         <Button>Home</Button>
+        <Button onPress={() => navigation.navigate('Category')}>
+          Go to Details
+        </Button>
       </Card>
     </Container>
   );
 };
-
 
 const styles = StyleSheet.create({
   header: {
