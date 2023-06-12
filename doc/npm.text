@@ -1,0 +1,15 @@
+react-native-maps
+1) 
+Podfile -
+    platform :ios, '13.0'
+before use_native_modules, add it
+    pod 'Google-Maps-iOS-Utils', :git => 'https://github.com/Simon-TechForm/google-maps-ios-utils.git', :branch => 'feat/support-apple-silicon'
+    rn_maps_path = '../node_modules/react-native-maps'
+    pod 'react-native-google-maps', :path => rn_maps_path
+
+2)
+AppDelegate.mm - 
+    at top
+        #import <GoogleMaps/GoogleMaps.h>
+    *)launchOptions {, add it
+        [GMSServices provideAPIKey:@"AIzaSyDRNcW3LyDPSMdoIiPvKouIC-dNZVl4768"];
