@@ -133,6 +133,23 @@
                     }
                 },
                 {
+                    "source": "/Users/mbpair/Sites/Tilicho/react-native-poc/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "154,258",
+                        "endColumns": "63,68",
+                        "endOffsets": "213,322"
+                    },
+                    "to": {
+                        "startLines": "670,671",
+                        "startColumns": "4,4",
+                        "startOffsets": "42702,42766",
+                        "endColumns": "63,68",
+                        "endOffsets": "42761,42830"
+                    }
+                },
+                {
                     "source": "/Users/mbpair/.gradle/caches/transforms-3/85e4bbe9c5d78990c6ba607fb1c9ab7a/transformed/jetified-savedstate-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -258,42 +275,6 @@
                     }
                 },
                 {
-                    "source": "/Users/mbpair/Sites/Tilicho/refine-next-poc/mobile/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "154,258",
-                        "endColumns": "63,68",
-                        "endOffsets": "213,322"
-                    },
-                    "to": {
-                        "startLines": "670,671",
-                        "startColumns": "4,4",
-                        "startOffsets": "42702,42766",
-                        "endColumns": "63,68",
-                        "endOffsets": "42761,42830"
-                    }
-                },
-                {
-                    "source": "/Users/mbpair/Sites/Tilicho/refine-next-poc/mobile/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
-                    },
-                    "to": {
-                        "startLines": "855",
-                        "startColumns": "4",
-                        "startOffsets": "63158",
-                        "endLines": "858",
-                        "endColumns": "12",
-                        "endOffsets": "63336"
-                    }
-                },
-                {
                     "source": "/Users/mbpair/.gradle/caches/transforms-3/c10bb5e6b3f5dcf7b6548984476ee588/transformed/jetified-appcompat-resources-1.4.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,29,36,47,74",
@@ -310,6 +291,23 @@
                         "endLines": "4609,4615,4625,6778,6782",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "302314,302492,302776,374192,374319"
+                    }
+                },
+                {
+                    "source": "/Users/mbpair/Sites/Tilicho/react-native-poc/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "43",
+                        "endOffsets": "55"
+                    },
+                    "to": {
+                        "startLines": "707",
+                        "startColumns": "4",
+                        "startOffsets": "45304",
+                        "endColumns": "43",
+                        "endOffsets": "45343"
                     }
                 },
                 {
@@ -351,6 +349,25 @@
                     }
                 },
                 {
+                    "source": "/Users/mbpair/Sites/Tilicho/react-native-poc/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "267"
+                    },
+                    "to": {
+                        "startLines": "855",
+                        "startColumns": "4",
+                        "startOffsets": "63158",
+                        "endLines": "858",
+                        "endColumns": "12",
+                        "endOffsets": "63336"
+                    }
+                },
+                {
                     "source": "/Users/mbpair/.gradle/caches/transforms-3/236929aa564a4c4dfa1b417642a2a2ae/transformed/jetified-flipper-0.125.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -365,23 +382,6 @@
                         "startOffsets": "38603,38672",
                         "endColumns": "68,56",
                         "endOffsets": "38667,38724"
-                    }
-                },
-                {
-                    "source": "/Users/mbpair/Sites/Tilicho/refine-next-poc/mobile/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "43",
-                        "endOffsets": "55"
-                    },
-                    "to": {
-                        "startLines": "707",
-                        "startColumns": "4",
-                        "startOffsets": "45304",
-                        "endColumns": "43",
-                        "endOffsets": "45343"
                     }
                 },
                 {
